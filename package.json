@@ -1,5 +1,5 @@
 {
-  "name": "neversadsite",
+  "name": "neversad",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Giagnus64/NeverSadSite.git"
+    "url": "git+https://github.com/Giagnus64/NeverSad.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Giagnus64/NeverSadSite/issues"
+    "url": "https://github.com/Giagnus64/NeverSad/issues"
   },
-  "homepage": "https://github.com/Giagnus64/NeverSadSite#readme",
+  "homepage": "https://github.com/Giagnus64/NeverSad#readme",
   "devDependencies": {
     "browser-sync": "^2.23.6",
     "gulp": "^4.0.0",
